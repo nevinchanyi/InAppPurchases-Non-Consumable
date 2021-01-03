@@ -1,0 +1,44 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "5983F5BB",
+      "localizations" : [
+        {
+          "description" : "Very freshing and cool",
+          "displayName" : "Berry Blue",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "io.InAppPurchases.berry-blue",
+      "referenceName" : "Berry Blue",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "40.99",
+      "familyShareable" : false,
+      "internalID" : "194BB78E",
+      "localizations" : [
+        {
+          "description" : "Fresh and sweet!",
+          "displayName" : "Lemon Berry",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "io.InAppPurchases.lemon-berry",
+      "referenceName" : "Lemon berry",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
